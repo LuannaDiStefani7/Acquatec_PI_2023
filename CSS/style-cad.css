@@ -1,0 +1,17 @@
+.form{
+    width: 260px;
+    padding: 10px 65px;
+}
+
+.mensagem{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 15px;
+
+}
+
+.footer .container{
+    height: 100px;
+
+}
